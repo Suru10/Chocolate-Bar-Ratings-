@@ -1,0 +1,45 @@
+[?2004h(base) ]0;~/Chocolate Bar[01;34m~/Chocolate Bar[00m$ git init
+[?2004l[33mhint: Using 'master' as the name for the initial branch. This default branch name[m
+[33mhint: is subject to change. To configure the initial branch name to use in all[m
+[33mhint: of your new repositories, which will suppress this warning, call:[m
+[33mhint: [m
+[33mhint: 	git config --global init.defaultBranch <name>[m
+[33mhint: [m
+[33mhint: Names commonly chosen instead of 'master' are 'main', 'trunk' and[m
+[33mhint: 'development'. The just-created branch can be renamed via this command:[m
+[33mhint: [m
+[33mhint: 	git branch -m <name>[m
+Initialized empty Git repository in /projects/613c0371-6fa7-4ae1-9516-225b43f05376/Chocolate Bar/.git/
+[?2004h(base) ]0;~/Chocolate Bar[01;34m~/Chocolate Bar[00m$ [3mgit commit -m "first commit"[23m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit commit -m "first commit"
+[?2004lOn branch master
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m.Chocolate_Bar_Ratings.ipynb.sage-jupyter2[m
+	[31m.streamlit_app.py-0.term[m
+	[31m.terminal.term-0.term[m
+	[31mChocolate bar ratings 2022.csv[m
+	[31mChocolate_Bar_Ratings.ipynb[m
+	[31mrequirements.txt[m
+	[31mstreamlit_app.py[m
+	[31mterminal.term[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[?2004h(base) ]0;~/Chocolate Bar[01;34m~/Chocolate Bar[00m$ [3mgit branch -M main[23mgit branch -M main
+[?2004l[?2004h(base) ]0;~/Chocolate Bar[01;34m~/Chocolate Bar[00m$ [3mgit remote add origin https://github.com/Suru10/Chocolate-Bar-Ratings-.git[23m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit remote add origin https://github.com/Suru10/Chocolate-Bar-Ratings-.git
+[?2004l[?2004h(base) ]0;~/Chocolate Bar[01;34m~/Chocolate Bar[00m$ [3mgit push -u origin main[23mgit push -u origin main
+[?2004lerror: src refspec main does not match any
+[31merror: failed to push some refs to 'https://github.com/Suru10/Chocolate-Bar-Ratings-.git'
+[m[?2004h(base) ]0;~/Chocolate Bar[01;34m~/Chocolate Bar[00m$ [3mgit config --global user.name "FIRST_NAME LAST_NAME"[23m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit config --global user.name "FIRST_NAME LAST_NAME"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"S"u"r"u"1"0"[C
+[?2004l[?2004h(base) ]0;~/Chocolate Bar[01;34m~/Chocolate Bar[00m$ [3mgit config --global user.email "MY_NAME@example.com"[23m
+M[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit config --global user.email "MY_NAME@example.com"[1P.com"[1P.com"[1P.com"[1P.com"[1P.com"[1P.com"[1P.com"[1P.com"[1P.com"[1P.com"[1P.com"[1P.com"[1P.com"[1P.com"[1P.com"s.com"u.com"r.com"a.com"j.com"p.com"a.com"t.com"e.com"l.com"8.com"3.com"0.com"0.com"@.com"g.com"m.com"a.com"i.com"l.com"[C.com"[C.com"[1Pcom"[1Pcom"[C[C[C[C[C
+M
+[?2004l[?2004h(base) ]0;~/Chocolate Bar[01;34m~/Chocolate Bar[00m$ git config --global user.email "surajpatel8300@gmail.com"[19Pname "Suru10"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[15Ppush -u origin main
+[?2004lerror: src refspec main does not match any
+[31merror: failed to push some refs to 'https://github.com/Suru10/Chocolate-Bar-Ratings-.git'
+[m[?2004h(base) ]0;~/Chocolate Bar[01;34m~/Chocolate Bar[00m$ a[Kgit add .
+[?2004l[?2004h(base) ]0;~/Chocolate Bar[01;34m~/Chocolate Bar[00m$ git inin[Kt
+[?2004lReinitialized existing Git repository in /projects/613c0371-6fa7-4ae1-9516-225b43f05376/Chocolate Bar/.git/
+[?2004h(base) ]0;~/Chocolate Bar[01;34m~/Chocolate Bar[00m$ git add 

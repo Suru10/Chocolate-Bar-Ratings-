@@ -1,0 +1,29 @@
+[?2004h(base) ]0;~/Temporary Final[01;34m~/Temporary Final[00m$ [K(base) ]0;~/Temporary Final[01;34m~/Temporary Final[00m$ [3mstreamlit run streamlit_app.py[23m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cstreamlit run streamlit_app.py
+[?2004l2022-12-29 17:05:45.800 Port 8501 is already in use
+[?2004h(base) ]0;~/Temporary Final[01;34m~/Temporary Final[00m$ open [3m~/.streamlit/config.toml[23m~/.streamlit/config.toml
+[?2004l]49;{"event":"open","paths":[{"file":".streamlit/config.toml"}]}
+[?2004h(base) ]0;~/Temporary Final[01;34m~/Temporary Final[00m$ [K(base) ]0;~/Temporary Final[01;34m~/Temporary Final[00m$ [K(base) ]0;~/Temporary Final[01;34m~/Temporary Final[00m$ [?2004h(base) ]0;~/Temporary Final[01;34m~/Temporary Final[00m$ reset
+[?2004lc[?1000l[?25h[?2004h(base) ]0;~/Temporary Final[01;34m~/Temporary Final[00m$ [3mstreamlit run streamlit_app.py[23m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cstreamlit run streamlit_app.py
+[?2004l[0m
+[34m[1m  You can now view your Streamlit app in your browser.[0m
+[0m
+[34m  URL: [0m[1mhttp://localhost:8501/ad938e8d-2c1b-480b-b393-94673d3d4628/port/8501[0m
+[0m
+2022-12-29 17:12:41.516 An update to the [server] config option section was detected. To have these changes be reflected, please restart streamlit.
+2022-12-29 17:12:43.302 An update to the [server] config option section was detected. To have these changes be reflected, please restart streamlit.
+[?2004h(base) ]0;~/Temporary Final[01;34m~/Temporary Final[00m$ reset
+[?2004lc[?1000l[?25h[?2004h(base) ]0;~/Temporary Final[01;34m~/Temporary Final[00m$ [3mstreamlit run streamlit_app.py[23m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cstreamlit run streamlit_app.py
+[?2004l2022-12-29 17:14:55.527 Port 12337 is already in use
+[?2004h(base) ]0;~/Temporary Final[01;34m~/Temporary Final[00m$ [3m~/.streamlit/config.toml[23m~/.streamlit/config.toml
+[?2004lbash: /projects/613c0371-6fa7-4ae1-9516-225b43f05376/.streamlit/config.toml: Permission denied
+[?2004h(base) ]0;~/Temporary Final[01;34m~/Temporary Final[00m$ open [3m~/.streamlit/config.toml[23m~/.streamlit/config.toml
+[?2004l]49;{"event":"open","paths":[{"file":".streamlit/config.toml"}]}
+[?2004h(base) ]0;~/Temporary Final[01;34m~/Temporary Final[00m$ [K(base) ]0;~/Temporary Final[01;34m~/Temporary Final[00m$ [K(base) ]0;~/Temporary Final[01;34m~/Temporary Final[00m$ [?2004h(base) ]0;~/Temporary Final[01;34m~/Temporary Final[00m$ reset
+[?2004lc[?1000l[?25h[?2004h(base) ]0;~/Temporary Final[01;34m~/Temporary Final[00m$ [3mstreamlit run streamlit_app.py[23m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cstreamlit run streamlit_app.py
+[?2004l[0m
+[34m[1m  You can now view your Streamlit app in your browser.[0m
+[0m
+[34m  URL: [0m[1mhttp://coding.ai-camp.dev:12337/613c0371-6fa7-4ae1-9516-225b43f05376/port/12337[0m
+[0m
+[?2004h(base) ]0;~/Temporary Final[01;34m~/Temporary Final[00m$ reset
+[?2004lc[?1000l[?25h[?2004h(base) ]0;~/Temporary Final[01;34m~/Temporary Final[00m$ 
