@@ -42,4 +42,32 @@ nothing added to commit but untracked files present (use "git add" to track)
 [m[?2004h(base) ]0;~/Chocolate Bar[01;34m~/Chocolate Bar[00m$ a[Kgit add .
 [?2004l[?2004h(base) ]0;~/Chocolate Bar[01;34m~/Chocolate Bar[00m$ git inin[Kt
 [?2004lReinitialized existing Git repository in /projects/613c0371-6fa7-4ae1-9516-225b43f05376/Chocolate Bar/.git/
-[?2004h(base) ]0;~/Chocolate Bar[01;34m~/Chocolate Bar[00m$ git add 
+[?2004h(base) ]0;~/Chocolate Bar[01;34m~/Chocolate Bar[00m$ git add .
+[?2004l[?2004h(base) ]0;~/Chocolate Bar[01;34m~/Chocolate Bar[00m$ git add .[1Pinitadd .push -u origin mainconfig --global user.email "surajpatel8300@gmail.com"[19Pname "Suru10"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[15Ppush -u origin mainremote add origin https://github.com/Suru10/Chocolate-Bar-Ratings-.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cbranch -M main[Kcommit -m "first commit"init[Kcommit -m "first commit"
+[?2004l[main (root-commit) a99ac97] first commit
+ 8 files changed, 5805 insertions(+)
+ create mode 100644 .Chocolate_Bar_Ratings.ipynb.sage-jupyter2
+ create mode 100644 .streamlit_app.py-0.term
+ create mode 100644 .terminal.term-0.term
+ create mode 100644 Chocolate bar ratings 2022.csv
+ create mode 100644 Chocolate_Bar_Ratings.ipynb
+ create mode 100644 requirements.txt
+ create mode 100644 streamlit_app.py
+ create mode 100644 terminal.term
+[?2004h(base) ]0;~/Chocolate Bar[01;34m~/Chocolate Bar[00m$ git commit -m "first commit"add .[K[1Pinitadd .push -u origin mainconfig --global user.email "surajpatel8300@gmail.com"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[34Ppush -u origin mainconfig --global user.email "surajpatel8300@gmail.com"[19Pname "Suru10"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[15Ppush -u origin mainremote add origin https://github.com/Suru10/Chocolate-Bar-Ratings-.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cbranch -M main[K
+[?2004l[?2004h(base) ]0;~/Chocolate Bar[01;34m~/Chocolate Bar[00m$ git branch -M maincommit -m "first commit"add .[K[1Pinitadd .push -u origin main
+[?2004lUsername for 'https://github.com': Suru10
+Password for 'https://Suru10@github.com': 
+Enumerating objects: 10, done.
+Counting objects:  10% (1/10)Counting objects:  20% (2/10)Counting objects:  30% (3/10)Counting objects:  40% (4/10)Counting objects:  50% (5/10)Counting objects:  60% (6/10)Counting objects:  70% (7/10)Counting objects:  80% (8/10)Counting objects:  90% (9/10)Counting objects: 100% (10/10)Counting objects: 100% (10/10), done.
+Delta compression using up to 8 threads
+Compressing objects:  12% (1/8)Compressing objects:  25% (2/8)Compressing objects:  37% (3/8)Compressing objects:  50% (4/8)Compressing objects:  62% (5/8)Compressing objects:  75% (6/8)Compressing objects:  87% (7/8)Compressing objects: 100% (8/8)Compressing objects: 100% (8/8), done.
+Writing objects:  10% (1/10)Writing objects:  20% (2/10)Writing objects:  40% (4/10)Writing objects:  50% (5/10)Writing objects:  60% (6/10)Writing objects:  70% (7/10)Writing objects:  80% (8/10)Writing objects:  90% (9/10)Writing objects: 100% (10/10)Writing objects: 100% (10/10), 113.23 KiB | 5.66 MiB/s, done.
+Total 10 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas:   0% (0/1)[Kremote: Resolving deltas: 100% (1/1)[Kremote: Resolving deltas: 100% (1/1), done.[K
+To https://github.com/Suru10/Chocolate-Bar-Ratings-.git
+ * [new branch]      main -> main
+Branch 'main' set up to track remote branch 'main' from 'origin'.
+[?2004h(base) ]0;~/Chocolate Bar[01;34m~/Chocolate Bar[00m$ [K(base) ]0;~/Chocolate Bar[01;34m~/Chocolate Bar[00m$ [?2004h(base) ]0;~/Chocolate Bar[01;34m~/Chocolate Bar[00m$ ls
+[?2004l'Chocolate bar ratings 2022.csv'   Chocolate_Bar_Ratings.ipynb   requirements.txt   streamlit_app.py   terminal.term
+[?2004h(base) ]0;~/Chocolate Bar[01;34m~/Chocolate Bar[00m$ 
